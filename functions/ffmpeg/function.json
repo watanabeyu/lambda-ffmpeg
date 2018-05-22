@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "memory": 192,
+  "timeout": 30,
+  "runtime": "nodejs8.10"
+}

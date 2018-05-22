@@ -1,0 +1,8 @@
+{
+  "name": "projectname",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "",
+  "environment": {}
+}
